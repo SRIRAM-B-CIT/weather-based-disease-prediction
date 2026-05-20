@@ -1,4 +1,5 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## Live Link 
+- https://disease-weather-vxnt-15tatr2ys-sri7685234-1480s-projects.vercel.app/
 
 ## Getting Started
 
